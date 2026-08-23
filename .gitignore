@@ -1,0 +1,17 @@
+# Arduino & PlatformIO build artifacts
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+.pio/
+build/
+Output/
+
+# Local sensitive configuration (if separated)
+credentials.h
+config_local.h
+
+# OS generated files
+.DS_Store
+Thumbs.db
