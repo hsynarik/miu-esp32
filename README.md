@@ -5,10 +5,6 @@
 ![Fork](https://img.shields.io/badge/Forked%20From-dorianborian%2Fsesame--robot-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-purple)
 
-<p align="center">
-  <img src="preview.jpg" alt="Miu ESP32 Preview" width="100%" />
-</p>
-
 Customized embedded firmware and web controller for the **Miu** 8-DOF quadruped robot pet. 
 
 > [!NOTE]
